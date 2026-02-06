@@ -1,0 +1,9 @@
+# Go
+/bin/
+/pkg/
+
+# Env
+.env
+
+# OS
+.DS_Store
